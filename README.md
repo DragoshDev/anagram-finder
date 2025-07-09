@@ -4,7 +4,6 @@
 ## Example:
 If the input file (sample.txt) contains:
 
-If the input file (sample.txt) contains:
 
 act  
 cat  
